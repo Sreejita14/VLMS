@@ -5,5 +5,5 @@
 #### Guest Page: View CDs
 #### Admin page: Add-View-Update-Delete CDs
 #### Admin page: Add-View-Update-Delete Members
-#### Admin page: View Statistics, Search Videos
+#### Admin page: View Statistics, Search CDs
 #### Member page: View Membership Packages,Buy Membership,Issue CD,Return CD,View issued CDs
