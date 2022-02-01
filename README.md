@@ -1,5 +1,5 @@
 # VLMS
-### Tech Stack: Fontend: JAVA SWING Backend: JDBC and MYSQL
+### Tech Stack: Frontend: JAVA SWING Backend: JDBC and MYSQL
 ### VLMS has following features:
 #### Login and SignUp page
 #### Guest Page: View CDs
